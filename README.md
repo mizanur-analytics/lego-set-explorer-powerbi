@@ -1,5 +1,5 @@
 # LEGO Set Explorer 
-Lego_Set_Power BI_2.jpg
+![Lego_Set_Power BI](https://github.com/user-attachments/assets/f7705a54-74b3-4b27-977d-4366271eeffe)
 ## Project Background
 The LEGO Set Explorer project was designed to build a custom, interactive analytics tool that helps users discover LEGO sets based on price, age suitability, theme, and complexity.
 The goal is to transform raw LEGO product data into an intuitive dashboard that supports product comparison, affordability analysis, and customer-centric decision making.
@@ -54,7 +54,7 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
    - Multi-page navigation with decomposition tree
 
 ## Dashboard
-![Lego_Set_Power BI_2](https://github.com/user-attachments/assets/64fea725-cd8d-411f-990d-69ff0d208a7d)
+![Lego_Set_Power BI_2](https://github.com/user-attachments/assets/934184c6-54ce-4202-a5ea-99b4b6be9e8d)
 ## Main Dashboard Components:
 - KPI Cards: Total Sets, Avg. Pieces, Avg. Price
 - Slicers: Theme Group, Theme, Age Range
@@ -72,8 +72,7 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
   - Year
   - Pieces
   - Age Recommendation
- Dashboard Interaction <a href = "https://github.com/mizanur-analytics/lego-set-explorer-powerbi/blob/main/Lego_Set_Power%20BI.jpg">View Dashboard</a>
-
+![Lego_Set_Power BI_3](https://github.com/user-attachments/assets/b87ec2a8-77cf-4f3b-9a25-14067e86810d)
 ## Executive Summary (Key Findings)
 ## Overview of Findings
 -	LEGO sets vary significantly in price and complexity across age groups
