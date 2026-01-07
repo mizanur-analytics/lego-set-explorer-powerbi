@@ -47,10 +47,10 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
 4.	Built DAX measures for summary metrics
 5.	Designed dashboard layout with cards, tables, and slicers
 6.	Added interactivity:
--	Price range parameter
--	Tooltips with product images
--	Reset filters using bookmarks
--	Multi-page navigation with decomposition tree
+  -	Price range parameter
+  -	Tooltips with product images
+  -	Reset filters using bookmarks
+  -	Multi-page navigation with decomposition tree
 
 ## Dashboard
 Dashboard Interaction <a href = "https://github.com/mizanur-analytics/lego-set-explorer-powerbi/blob/main/Lego_Set_Power%20BI.jpg">View Dashboard</a>
