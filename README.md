@@ -46,7 +46,7 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
 3.	Created calculated columns for age and price segmentation
 4.	Built DAX measures for summary metrics
 5.	Designed dashboard layout with cards, tables, and slicers
-6. **Added interactivity**
+6. Added interactivity
    - Price range parameter
    - Tooltips with product images
    - Reset filters using bookmarks
