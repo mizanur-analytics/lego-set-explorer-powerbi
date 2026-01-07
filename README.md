@@ -16,6 +16,11 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
   *	Age
   *	Number of pieces
   *	Image URL
+* Main point
+  * Sub-point 1
+  * Sub-point 2
+* Another main point
+
 ## Derived Columns Created:
 •	Age Range:
 o	1–4
