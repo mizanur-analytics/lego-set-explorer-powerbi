@@ -1,4 +1,5 @@
 # LEGO Set Explorer 
+Lego_Set_Power BI_2.jpg
 ## Project Background
 The LEGO Set Explorer project was designed to build a custom, interactive analytics tool that helps users discover LEGO sets based on price, age suitability, theme, and complexity.
 The goal is to transform raw LEGO product data into an intuitive dashboard that supports product comparison, affordability analysis, and customer-centric decision making.
