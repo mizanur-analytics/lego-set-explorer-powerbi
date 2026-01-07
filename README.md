@@ -17,13 +17,17 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
   * Number of pieces
   * Image URL
 ## Derived Columns Created:
-*	Age Range:
-  *	1–4
-  *	5–9
-  *	10–17
-  *	Over 18
-*	Price Range:
-  *	$, $$, $$$, $$$$, $$$$$
+- **Age Range**
+  - 1–4
+  - 5–9
+  - 10–17
+  - Over 18
+- **Price Range**
+  - $
+  - $$
+  - $$$
+  - $$$$
+  - $$$$$
 ## Core Measures (DAX):
 •	Total Sets
 •	Total Theme Groups
