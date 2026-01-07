@@ -29,11 +29,11 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
   - $$$$
   - $$$$$
 ## Core Measures (DAX):
-•	Total Sets
-•	Total Theme Groups
-•	Average Age
-•	Average Price
-•	Average Pieces
+-	Total Sets
+-	Total Theme Groups
+-	Average Age
+-	Average Price
+-	Average Pieces
 ## Questions (KPIs)
 •	How many LEGO sets are available after cleaning?
 •	What is the average price and complexity of sets?
