@@ -16,9 +16,13 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
   *	Age
   *	Number of pieces
   *	Image URL
-* Main point
-  * Sub-point 1
-  * Sub-point 2
+* Removed unnecessary fields: minifigs, bricksetURL, thumbnailURL
+* Verified data types for price, age, pieces, and year
+* Filtered out records missing:
+  * Price
+  * Age
+  * Number of pieces
+  * Image URL
 * Another main point
 
 ## Derived Columns Created:
