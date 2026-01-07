@@ -7,15 +7,15 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
 *	Data Modeling & DAX Measures
 *	Interactive Visuals, Parameters, Tooltips & Bookmarks
 ## Data Source:
-•	- <a href = "https://github.com/mizanur-analytics/lego-set-explorer-powerbi/blob/main/lego_sets.csv">Dataset</a>
+•	<a href = "https://github.com/mizanur-analytics/lego-set-explorer-powerbi/blob/main/lego_sets.csv">Dataset</a>
 ## Key Preparation Steps:
-•	Removed unnecessary fields: minifigs, bricksetURL, thumbnailURL
-•	Verified data types for price, age, pieces, and year
-•	Filtered out records missing:
-o	Price
-o	Age
-o	Number of pieces
-o	Image URL
+*	Removed unnecessary fields: minifigs, bricksetURL, thumbnailURL
+*	Verified data types for price, age, pieces, and year
+*	Filtered out records missing:
+ *	Price
+ *	Age
+ *	Number of pieces
+ *	Image URL
 ## Derived Columns Created:
 •	Age Range:
 o	1–4
