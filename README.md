@@ -54,7 +54,7 @@ The goal is to transform raw LEGO product data into an intuitive dashboard that 
    - Multi-page navigation with decomposition tree
 
 ## Dashboard
-Dashboard Interaction <a href = "https://github.com/mizanur-analytics/lego-set-explorer-powerbi/blob/main/Lego_Set_Power%20BI.jpg">View Dashboard</a>
+![Lego_Set_Power BI_2](https://github.com/user-attachments/assets/64fea725-cd8d-411f-990d-69ff0d208a7d)
 ## Main Dashboard Components:
 - KPI Cards: Total Sets, Avg. Pieces, Avg. Price
 - Slicers: Theme Group, Theme, Age Range
